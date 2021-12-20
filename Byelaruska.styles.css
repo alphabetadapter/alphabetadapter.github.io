@@ -1,19 +1,19 @@
 /* /Shared/MainLayout.razor.rz.scp.css */
-.page[b-hxfeno30sw] {
+.page[b-nnuops2gbz] {
     position: relative;
     display: flex;
     flex-direction: column;
 }
 
-main[b-hxfeno30sw] {
+main[b-nnuops2gbz] {
     flex: 1;
 }
 
-.sidebar[b-hxfeno30sw] {
+.sidebar[b-nnuops2gbz] {
     background-image: url('../img.png');
 }
 
-.top-row[b-hxfeno30sw] {
+.top-row[b-nnuops2gbz] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
@@ -22,100 +22,100 @@ main[b-hxfeno30sw] {
     align-items: center;
 }
 
-    .top-row[b-hxfeno30sw]  a, .top-row[b-hxfeno30sw]  .btn-link {
+    .top-row[b-nnuops2gbz]  a, .top-row[b-nnuops2gbz]  .btn-link {
         white-space: nowrap;
         margin-left: 1.5rem;
         text-decoration: none;
     }
 
-    .top-row[b-hxfeno30sw]  a:hover, .top-row[b-hxfeno30sw]  .btn-link:hover {
+    .top-row[b-nnuops2gbz]  a:hover, .top-row[b-nnuops2gbz]  .btn-link:hover {
         text-decoration: underline;
     }
 
-    .top-row[b-hxfeno30sw]  a:first-child {
+    .top-row[b-nnuops2gbz]  a:first-child {
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
 @media (max-width: 640.98px) {
-    .top-row:not(.auth)[b-hxfeno30sw] {
+    .top-row:not(.auth)[b-nnuops2gbz] {
         display: none;
     }
 
-    .top-row.auth[b-hxfeno30sw] {
+    .top-row.auth[b-nnuops2gbz] {
         justify-content: space-between;
     }
 
-    .top-row[b-hxfeno30sw]  a, .top-row[b-hxfeno30sw]  .btn-link {
+    .top-row[b-nnuops2gbz]  a, .top-row[b-nnuops2gbz]  .btn-link {
         margin-left: 0;
     }
 }
 
 @media (min-width: 641px) {
-    .page[b-hxfeno30sw] {
+    .page[b-nnuops2gbz] {
         flex-direction: row;
     }
 
-    .sidebar[b-hxfeno30sw] {
+    .sidebar[b-nnuops2gbz] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
 
-    .top-row[b-hxfeno30sw] {
+    .top-row[b-nnuops2gbz] {
         position: sticky;
         top: 0;
         z-index: 1;
     }
 
-    .top-row.auth[b-hxfeno30sw]  a:first-child {
+    .top-row.auth[b-nnuops2gbz]  a:first-child {
         flex: 1;
         text-align: right;
         width: 0;
     }
 
-    .top-row[b-hxfeno30sw], article[b-hxfeno30sw] {
+    .top-row[b-nnuops2gbz], article[b-nnuops2gbz] {
         padding-left: 0.1rem !important;
         padding-right: 0.1rem !important;
     }
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-slxrtu9vmj] {
+.navbar-toggler[b-m4c4nayi1i] {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row[b-slxrtu9vmj] {
+.top-row[b-m4c4nayi1i] {
     height: 3.5rem;
     /*background-color: rgba(0,0,0,0.4);*/
     background-color: rgba(0,0,0,0.1);
 }
 
-.navbar-brand[b-slxrtu9vmj] {
+.navbar-brand[b-m4c4nayi1i] {
     font-size: 1.1rem;
 }
 
-.oi[b-slxrtu9vmj] {
+.oi[b-m4c4nayi1i] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
     top: -2px;
 }
 
-.nav-item[b-slxrtu9vmj] {
+.nav-item[b-m4c4nayi1i] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-slxrtu9vmj] {
+    .nav-item:first-of-type[b-m4c4nayi1i] {
         padding-top: 1rem;
     }
 
-    .nav-item:last-of-type[b-slxrtu9vmj] {
+    .nav-item:last-of-type[b-m4c4nayi1i] {
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-slxrtu9vmj]  a {
+    .nav-item[b-m4c4nayi1i]  a {
         /*color: #d7d7d7;*/
         color: red;
         border-radius: 4px;
@@ -125,7 +125,7 @@ main[b-hxfeno30sw] {
         line-height: 3rem;
     }
 
-.nav-item[b-slxrtu9vmj]  a.active {
+.nav-item[b-m4c4nayi1i]  a.active {
     background-color: rgba(255,255,255,0.25);
     /*color: white;*/
     color: red;
@@ -134,18 +134,18 @@ main[b-hxfeno30sw] {
     border-style: solid;
 }
 
-.nav-item[b-slxrtu9vmj]  a:hover {
+.nav-item[b-m4c4nayi1i]  a:hover {
     background-color: rgba(255,255,255,0.1);
      /*color: white;*/
     color: red;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-slxrtu9vmj] {
+    .navbar-toggler[b-m4c4nayi1i] {
         display: none;
     }
 
-    .collapse[b-slxrtu9vmj] {
+    .collapse[b-m4c4nayi1i] {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }

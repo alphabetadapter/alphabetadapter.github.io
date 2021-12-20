@@ -2,12 +2,12 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "Byelaruska",
+  "entryAssembly": "byelaruska",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Byelaruska.dll": "sha256-rL+3muICH23Ar3gSKYcnMj2aku+21V5QOQPb4Y4uihE=",
+      "byelaruska.dll": "sha256-AzNa4DhTF7mK5\/ThPksxG8O+nE7tu5JYWXgLqTak4Tg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-xCu7ei4An5V3cyfS28Gm2nFVebWJXB9dIhFTMVY6\/Eg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-pS6neF9kpWN2HIz0ankgvM9P\/LGkoppfgrYLcKqnsOs=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2fbR6RpUxEMnL89Bp4BedWtQJQRpzWAu87gh1UjPAWk=",
