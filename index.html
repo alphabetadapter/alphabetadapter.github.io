@@ -40,7 +40,8 @@
                 // This is needed only because GitHub pages doesn't natively support Brotli (or even gzip for .dll files)
                 if (type !== 'dotnetjs' && location.hostname !== 'localhost') {
                     return (async function () {
-                        const response = await fetch(defaultUri + '.br', { cache: 'no-cache' });
+                        /* const response = await fetch(defaultUri + '.br', { cache: 'no-cache' }); */
+                        const response = await fetch(defaultUri, { cache: 'no-cache' });
                         if (!response.ok) {
                             throw new Error(response.statusText);
                         }
