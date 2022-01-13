@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "byelaruska.dll": "sha256-4j8n5AkoXPUB1eHvLdXD7RxeYqGHWUU2GlHNrbW0yW0=",
+      "byelaruska.dll": "sha256-k+O72RKss0ODMRYefTWwlEk\/egxLrNdvoEpAkOdy9j4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-xCu7ei4An5V3cyfS28Gm2nFVebWJXB9dIhFTMVY6\/Eg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-pS6neF9kpWN2HIz0ankgvM9P\/LGkoppfgrYLcKqnsOs=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2fbR6RpUxEMnL89Bp4BedWtQJQRpzWAu87gh1UjPAWk=",
@@ -28,7 +28,7 @@
       "System.Memory.dll": "sha256-mxH68hfT2Zi5DOKZuc\/0R8FgB0S\/z\/ETbq6OCIu5kQ8=",
       "System.Net.Http.dll": "sha256-X5R1ZMINm7KHi9RboNhaNmxOcjoXr5hetE\/GMYOvjlw=",
       "System.Net.Primitives.dll": "sha256-OSU4N4XKqTKgdoO9pe\/BfZLehucijGO4k8igT7uzo\/A=",
-      "System.Private.CoreLib.dll": "sha256-EeP\/k+eu9JciyFhcxYoltJJQrEIIMQM1ef9Zpwcgwzs=",
+      "System.Private.CoreLib.dll": "sha256-QbW4yZlrRK\/V6zR8L79l99QwKUPhuo66tlf0p6oVx8M=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-qi77gYVxMlCsbJi31oZqGaIW077cYdFy3LFk+dt2z6k=",
       "System.Private.Uri.dll": "sha256-M3jkdve6IDntXp0z6mLRuzLCHSKMne2PWZi9Xl0zxiY=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-NJPcPizDV6A4CjOnszxYro9mJMWaHq2cGM2\/A0bAFNY=",
@@ -41,9 +41,9 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.6.0.1.6r6mcizezb.js": "sha256-A95npc7ljqGxSyui3GiIgZKjVJrqd42vkiID4\/8jhaI=",
+      "dotnet.6.0.1.6r6mcizezb.js": "sha256-EQ5ksgzN9I8ty6xEA1IDSVYRC2XD0Q9fjLyoSoe28nw=",
       "dotnet.timezones.blat": "sha256-2kYo2V\/aZ7htYEvY5PVJlrMYhFf1jH8\/VS+SP7B7QUg=",
-      "dotnet.wasm": "sha256-3WWCw0n74fAv+GaVkrTgPgdbJBSYNumRLfkhDTgvH+k=",
+      "dotnet.wasm": "sha256-hsFH9BybcpfUVEHGUIvuwvzFB71Fx3Pjfb0WHnaGqGM=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
