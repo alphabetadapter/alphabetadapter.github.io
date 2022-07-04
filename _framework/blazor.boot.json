@@ -2,12 +2,12 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "byelaruska",
+  "entryAssembly": "Adapter",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "byelaruska.dll": "sha256-mRWDAfl7ZPQQI9pbI04we\/\/GjOuIzabpY\/8KEwTyeH8=",
+      "Adapter.dll": "sha256-Qf3mcNLvXKI8DcIFed093ke6O6wtKVazau\/xY6uoE5c=",
       "Microsoft.AspNetCore.Components.dll": "sha256-NbANq604FwAIUqtz2wTlOzfFll92t4O1I94zAiu6KiY=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-PdYKNU3JFUSCwZkUC2EvjucmTjwE3xrGoa+SvpFmvWs=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-\/Dy2ObLVYzJ6Xlan\/StjJDmeXXNbucbohR2dQMoH3Zo=",
@@ -41,9 +41,9 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.6.0.6.mu34x2zqk9.js": "sha256-8vqxU5zJHOrRaKeUSoUvsNKtca906z2CAqd7CnXq8AY=",
+      "dotnet.6.0.6.mu34x2zqk9.js": "sha256-UOgv\/OLEa1cuD+O7nyP9qzYKw75OrOlknuzL8ACDCZw=",
       "dotnet.timezones.blat": "sha256-44J\/Hf\/X8VbgiBAazDB8c0FaVrAFYOb4BbGyQwuzNyk=",
-      "dotnet.wasm": "sha256-pZpvCC4fmb1KWwwR6Yys\/BsTIYrYXQ0LiPr9X3GdS9A=",
+      "dotnet.wasm": "sha256-SQrYkl7FFd56RLmuyniCMXZMwv0UB1hk5IoXbp3VC9E=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
